@@ -3,6 +3,6 @@ description: ""
 topics: []
 homepage: ""
 source:
-  provider: gitlab
+  provider: github
   namespace: "sachahjkl"
   path: "sachahjkl/dut_a2_expcom_disscog"
