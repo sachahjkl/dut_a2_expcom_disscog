@@ -1,0 +1,8 @@
+name: "dut_a2_expcom_disscog"
+description: ""
+topics: []
+homepage: ""
+source:
+  provider: gitlab
+  namespace: "sachahjkl"
+  path: "sachahjkl/dut_a2_expcom_disscog"
