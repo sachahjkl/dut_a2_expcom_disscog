@@ -1,5 +1,3 @@
-[English](README.md) | [Français](README.fr.md)
-
 # dut_a2_expcom_disscog
 
 EXP COM Cognitive Dissonance Group
