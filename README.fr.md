@@ -2,7 +2,7 @@
 
 # dut_a2_expcom_disscog
 
-EXP COM Cognitive Dissonance Group
+Groupe EXP COM Dissonance Cognitive
 -FROMENT Sacha 
 -FERNANDO Rudy 
 -SOLEIMAN Agathe
