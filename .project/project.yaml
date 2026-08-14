@@ -1,8 +1,0 @@
-name: "dut_a2_expcom_disscog"
-description: ""
-topics: []
-homepage: ""
-source:
-  provider: github
-  namespace: "sachahjkl"
-  path: "sachahjkl/dut_a2_expcom_disscog"
